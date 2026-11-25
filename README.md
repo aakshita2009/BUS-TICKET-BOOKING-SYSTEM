@@ -1,1 +1,1 @@
-# BUS-TICKET-BOOKING-SYSTEM
+# Bus Ticket Booking System - Team 1\n\nDisplay routes and seats, book tickets and maintain booking records.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
